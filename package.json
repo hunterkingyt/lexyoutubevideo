@@ -1,0 +1,19 @@
+{
+  "name": "lex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lex.js",
+  "scripts": {
+    "start": "node lex.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.0.0",
+    "yt-search": "^2.7.6",
+    "fs": "^0.0.1-security"
+  }
+}
